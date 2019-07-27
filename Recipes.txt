@@ -6,6 +6,7 @@ curry
 lamb
 onion
 
-
+pepper
+potato
 
 Thank you ☺️ 
